@@ -1,7 +1,8 @@
-<!-- Con rồng bay ngang -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="900"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="300"/>
 </p>
+
 <h1 align="center">👋 Xin chào, mình là Thắng</h1>
 <h3 align="center">💻 Sinh viên CNTT | Yêu thích lập trình & công nghệ</h3>
 
