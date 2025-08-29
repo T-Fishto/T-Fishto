@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Xin chào, mình là Thắng</h1>
-<h3 align="center">💻 Sinh viên CNTT | Yêu thích lập trình & công nghệ</h3>
+<h3 align="center">💻 Sinh viên Kỹ Thuật Phần Mềm | Yêu thích lập trình & công nghệ</h3>
 
 ---
 
