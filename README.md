@@ -1,13 +1,15 @@
-<!-- Banner mở đầu -->
+<!-- Con rồng bay ngang -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="900"/>
 </p>
-
 <h1 align="center">👋 Xin chào, mình là Thắng</h1>
+<h3 align="center">💻 Sinh viên CNTT | Yêu thích lập trình & công nghệ</h3>
 
 ---
 
 ## 🧑‍💻 Giới thiệu
+<img align="right" width="300px" height="300px" alt="coding_gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh6cjJuOWJwcHF3MnprYmJ1a3BqMGtxNW85OXY1d3pldzQ3d2ZiaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" />
+
 - 🌱 Đam mê lập trình và công nghệ  
 - 🔥 Thích khám phá ngôn ngữ mới và ứng dụng thực tế  
 - 📚 Hướng đến phát triển trong lĩnh vực **AI | Backend | Web Development**  
@@ -64,9 +66,14 @@
 
 ## 📊 Thống kê GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark&fire=red" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=T-Fishto&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Fishto&theme=dark&fire=red" height="160"/>
 </p>
+
+---
+
+## 📈 Activity Graph
+[![Thắng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=T-Fishto&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
